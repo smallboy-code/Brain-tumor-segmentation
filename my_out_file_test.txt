@@ -1,0 +1,668 @@
+nohup: 忽略输入
+Successfully load checkpoint TransBTS2022-09-19/model_epoch_999.pth
+Samples for valid = 219
+-------------------------------------------------------------------
+Subject 1/219,      BraTS2021_00372, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00372.nii.gz
+-------------------------------------------------------------------
+Subject 2/219,      BraTS2021_00080, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00080.nii.gz
+-------------------------------------------------------------------
+Subject 3/219,      BraTS2021_00082, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00082.nii.gz
+-------------------------------------------------------------------
+Subject 4/219,      BraTS2021_00438, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00438.nii.gz
+-------------------------------------------------------------------
+Subject 5/219,      BraTS2021_00647, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00647.nii.gz
+-------------------------------------------------------------------
+Subject 6/219,      BraTS2021_00553, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00553.nii.gz
+-------------------------------------------------------------------
+Subject 7/219,      BraTS2021_01773, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01773.nii.gz
+-------------------------------------------------------------------
+Subject 8/219,      BraTS2021_01723, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01723.nii.gz
+-------------------------------------------------------------------
+Subject 9/219,      BraTS2021_01683, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01683.nii.gz
+-------------------------------------------------------------------
+Subject 10/219,      BraTS2021_01748, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01748.nii.gz
+-------------------------------------------------------------------
+Subject 11/219,      BraTS2021_01697, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01697.nii.gz
+-------------------------------------------------------------------
+Subject 12/219,      BraTS2021_01757, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01757.nii.gz
+-------------------------------------------------------------------
+Subject 13/219,      BraTS2021_00535, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00535.nii.gz
+-------------------------------------------------------------------
+Subject 14/219,      BraTS2021_01717, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01717.nii.gz
+-------------------------------------------------------------------
+Subject 15/219,      BraTS2021_01679, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01679.nii.gz
+-------------------------------------------------------------------
+Subject 16/219,      BraTS2021_01700, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01700.nii.gz
+-------------------------------------------------------------------
+Subject 17/219,      BraTS2021_01745, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01745.nii.gz
+-------------------------------------------------------------------
+Subject 18/219,      BraTS2021_01718, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01718.nii.gz
+-------------------------------------------------------------------
+Subject 19/219,      BraTS2021_00079, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00079.nii.gz
+-------------------------------------------------------------------
+Subject 20/219,      BraTS2021_00450, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00450.nii.gz
+-------------------------------------------------------------------
+Subject 21/219,      BraTS2021_00323, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00323.nii.gz
+-------------------------------------------------------------------
+Subject 22/219,      BraTS2021_01789, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01789.nii.gz
+-------------------------------------------------------------------
+Subject 23/219,      BraTS2021_01744, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01744.nii.gz
+-------------------------------------------------------------------
+Subject 24/219,      BraTS2021_00091, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00091.nii.gz
+-------------------------------------------------------------------
+Subject 25/219,      BraTS2021_01756, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01756.nii.gz
+-------------------------------------------------------------------
+Subject 26/219,      BraTS2021_00592, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00592.nii.gz
+-------------------------------------------------------------------
+Subject 27/219,      BraTS2021_01798, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01798.nii.gz
+-------------------------------------------------------------------
+Subject 28/219,      BraTS2021_01694, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01694.nii.gz
+-------------------------------------------------------------------
+Subject 29/219,      BraTS2021_01715, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01715.nii.gz
+-------------------------------------------------------------------
+Subject 30/219,      BraTS2021_00826, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00826.nii.gz
+-------------------------------------------------------------------
+Subject 31/219,      BraTS2021_00287, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00287.nii.gz
+-------------------------------------------------------------------
+Subject 32/219,      BraTS2021_01729, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01729.nii.gz
+-------------------------------------------------------------------
+Subject 33/219,      BraTS2021_00779, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00779.nii.gz
+-------------------------------------------------------------------
+Subject 34/219,      BraTS2021_01783, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01783.nii.gz
+-------------------------------------------------------------------
+Subject 35/219,      BraTS2021_00460, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00460.nii.gz
+-------------------------------------------------------------------
+Subject 36/219,      BraTS2021_00749, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00749.nii.gz
+-------------------------------------------------------------------
+Subject 37/219,      BraTS2021_01727, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01727.nii.gz
+-------------------------------------------------------------------
+Subject 38/219,      BraTS2021_00264, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00264.nii.gz
+-------------------------------------------------------------------
+Subject 39/219,      BraTS2021_00015, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00015.nii.gz
+-------------------------------------------------------------------
+Subject 40/219,      BraTS2021_01743, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01743.nii.gz
+-------------------------------------------------------------------
+Subject 41/219,      BraTS2021_00463, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00463.nii.gz
+-------------------------------------------------------------------
+Subject 42/219,      BraTS2021_00492, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00492.nii.gz
+-------------------------------------------------------------------
+Subject 43/219,      BraTS2021_01668, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01668.nii.gz
+-------------------------------------------------------------------
+Subject 44/219,      BraTS2021_01720, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01720.nii.gz
+-------------------------------------------------------------------
+Subject 45/219,      BraTS2021_00001, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00001.nii.gz
+-------------------------------------------------------------------
+Subject 46/219,      BraTS2021_00335, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00335.nii.gz
+-------------------------------------------------------------------
+Subject 47/219,      BraTS2021_01698, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01698.nii.gz
+-------------------------------------------------------------------
+Subject 48/219,      BraTS2021_00762, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00762.nii.gz
+-------------------------------------------------------------------
+Subject 49/219,      BraTS2021_01755, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01755.nii.gz
+-------------------------------------------------------------------
+Subject 50/219,      BraTS2021_00825, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00825.nii.gz
+-------------------------------------------------------------------
+Subject 51/219,      BraTS2021_01669, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01669.nii.gz
+-------------------------------------------------------------------
+Subject 52/219,      BraTS2021_01797, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01797.nii.gz
+-------------------------------------------------------------------
+Subject 53/219,      BraTS2021_01770, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01770.nii.gz
+-------------------------------------------------------------------
+Subject 54/219,      BraTS2021_00467, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00467.nii.gz
+-------------------------------------------------------------------
+Subject 55/219,      BraTS2021_01738, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01738.nii.gz
+-------------------------------------------------------------------
+Subject 56/219,      BraTS2021_01759, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01759.nii.gz
+-------------------------------------------------------------------
+Subject 57/219,      BraTS2021_01739, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01739.nii.gz
+-------------------------------------------------------------------
+Subject 58/219,      BraTS2021_00114, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00114.nii.gz
+-------------------------------------------------------------------
+Subject 59/219,      BraTS2021_01788, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01788.nii.gz
+-------------------------------------------------------------------
+Subject 60/219,      BraTS2021_01737, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01737.nii.gz
+-------------------------------------------------------------------
+Subject 61/219,      BraTS2021_01680, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01680.nii.gz
+-------------------------------------------------------------------
+Subject 62/219,      BraTS2021_01714, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01714.nii.gz
+-------------------------------------------------------------------
+Subject 63/219,      BraTS2021_01702, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01702.nii.gz
+-------------------------------------------------------------------
+Subject 64/219,      BraTS2021_00013, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00013.nii.gz
+-------------------------------------------------------------------
+Subject 65/219,      BraTS2021_01793, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01793.nii.gz
+-------------------------------------------------------------------
+Subject 66/219,      BraTS2021_00337, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00337.nii.gz
+-------------------------------------------------------------------
+Subject 67/219,      BraTS2021_00644, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00644.nii.gz
+-------------------------------------------------------------------
+Subject 68/219,      BraTS2021_00462, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00462.nii.gz
+-------------------------------------------------------------------
+Subject 69/219,      BraTS2021_01787, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01787.nii.gz
+-------------------------------------------------------------------
+Subject 70/219,      BraTS2021_01721, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01721.nii.gz
+-------------------------------------------------------------------
+Subject 71/219,      BraTS2021_00769, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00769.nii.gz
+-------------------------------------------------------------------
+Subject 72/219,      BraTS2021_01671, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01671.nii.gz
+-------------------------------------------------------------------
+Subject 73/219,      BraTS2021_01703, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01703.nii.gz
+-------------------------------------------------------------------
+Subject 74/219,      BraTS2021_00182, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00182.nii.gz
+-------------------------------------------------------------------
+Subject 75/219,      BraTS2021_01749, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01749.nii.gz
+-------------------------------------------------------------------
+Subject 76/219,      BraTS2021_01780, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01780.nii.gz
+-------------------------------------------------------------------
+Subject 77/219,      BraTS2021_00712, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00712.nii.gz
+-------------------------------------------------------------------
+Subject 78/219,      BraTS2021_00434, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00434.nii.gz
+-------------------------------------------------------------------
+Subject 79/219,      BraTS2021_01728, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01728.nii.gz
+-------------------------------------------------------------------
+Subject 80/219,      BraTS2021_01712, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01712.nii.gz
+-------------------------------------------------------------------
+Subject 81/219,      BraTS2021_01684, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01684.nii.gz
+-------------------------------------------------------------------
+Subject 82/219,      BraTS2021_01792, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01792.nii.gz
+-------------------------------------------------------------------
+Subject 83/219,      BraTS2021_01785, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01785.nii.gz
+-------------------------------------------------------------------
+Subject 84/219,      BraTS2021_00307, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00307.nii.gz
+-------------------------------------------------------------------
+Subject 85/219,      BraTS2021_01734, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01734.nii.gz
+-------------------------------------------------------------------
+Subject 86/219,      BraTS2021_01795, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01795.nii.gz
+-------------------------------------------------------------------
+Subject 87/219,      BraTS2021_01753, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01753.nii.gz
+-------------------------------------------------------------------
+Subject 88/219,      BraTS2021_01752, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01752.nii.gz
+-------------------------------------------------------------------
+Subject 89/219,      BraTS2021_01670, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01670.nii.gz
+-------------------------------------------------------------------
+Subject 90/219,      BraTS2021_00161, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00161.nii.gz
+-------------------------------------------------------------------
+Subject 91/219,      BraTS2021_01690, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01690.nii.gz
+-------------------------------------------------------------------
+Subject 92/219,      BraTS2021_01772, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01772.nii.gz
+-------------------------------------------------------------------
+Subject 93/219,      BraTS2021_00135, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00135.nii.gz
+-------------------------------------------------------------------
+Subject 94/219,      BraTS2021_01735, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01735.nii.gz
+-------------------------------------------------------------------
+Subject 95/219,      BraTS2021_00719, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00719.nii.gz
+-------------------------------------------------------------------
+Subject 96/219,      BraTS2021_00829, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00829.nii.gz
+-------------------------------------------------------------------
+Subject 97/219,      BraTS2021_01786, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01786.nii.gz
+-------------------------------------------------------------------
+Subject 98/219,      BraTS2021_00174, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00174.nii.gz
+-------------------------------------------------------------------
+Subject 99/219,      BraTS2021_01731, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01731.nii.gz
+-------------------------------------------------------------------
+Subject 100/219,      BraTS2021_01676, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01676.nii.gz
+-------------------------------------------------------------------
+Subject 101/219,      BraTS2021_01716, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01716.nii.gz
+-------------------------------------------------------------------
+Subject 102/219,      BraTS2021_01681, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01681.nii.gz
+-------------------------------------------------------------------
+Subject 103/219,      BraTS2021_01741, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01741.nii.gz
+-------------------------------------------------------------------
+Subject 104/219,      BraTS2021_00163, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00163.nii.gz
+-------------------------------------------------------------------
+Subject 105/219,      BraTS2021_01790, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01790.nii.gz
+-------------------------------------------------------------------
+Subject 106/219,      BraTS2021_01778, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01778.nii.gz
+-------------------------------------------------------------------
+Subject 107/219,      BraTS2021_01686, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01686.nii.gz
+-------------------------------------------------------------------
+Subject 108/219,      BraTS2021_00252, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00252.nii.gz
+-------------------------------------------------------------------
+Subject 109/219,      BraTS2021_00573, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00573.nii.gz
+-------------------------------------------------------------------
+Subject 110/219,      BraTS2021_00997, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00997.nii.gz
+-------------------------------------------------------------------
+Subject 111/219,      BraTS2021_00037, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00037.nii.gz
+-------------------------------------------------------------------
+Subject 112/219,      BraTS2021_00721, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00721.nii.gz
+-------------------------------------------------------------------
+Subject 113/219,      BraTS2021_01677, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01677.nii.gz
+-------------------------------------------------------------------
+Subject 114/219,      BraTS2021_00702, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00702.nii.gz
+-------------------------------------------------------------------
+Subject 115/219,      BraTS2021_00355, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00355.nii.gz
+-------------------------------------------------------------------
+Subject 116/219,      BraTS2021_01699, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01699.nii.gz
+-------------------------------------------------------------------
+Subject 117/219,      BraTS2021_01722, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01722.nii.gz
+-------------------------------------------------------------------
+Subject 118/219,      BraTS2021_00200, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00200.nii.gz
+-------------------------------------------------------------------
+Subject 119/219,      BraTS2021_01675, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01675.nii.gz
+-------------------------------------------------------------------
+Subject 120/219,      BraTS2021_00560, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00560.nii.gz
+-------------------------------------------------------------------
+Subject 121/219,      BraTS2021_00474, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00474.nii.gz
+-------------------------------------------------------------------
+Subject 122/219,      BraTS2021_01709, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01709.nii.gz
+-------------------------------------------------------------------
+Subject 123/219,      BraTS2021_01791, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01791.nii.gz
+-------------------------------------------------------------------
+Subject 124/219,      BraTS2021_01726, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01726.nii.gz
+-------------------------------------------------------------------
+Subject 125/219,      BraTS2021_01667, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01667.nii.gz
+-------------------------------------------------------------------
+Subject 126/219,      BraTS2021_00428, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00428.nii.gz
+-------------------------------------------------------------------
+Subject 127/219,      BraTS2021_01006, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01006.nii.gz
+-------------------------------------------------------------------
+Subject 128/219,      BraTS2021_01767, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01767.nii.gz
+-------------------------------------------------------------------
+Subject 129/219,      BraTS2021_01769, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01769.nii.gz
+-------------------------------------------------------------------
+Subject 130/219,      BraTS2021_00213, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00213.nii.gz
+-------------------------------------------------------------------
+Subject 131/219,      BraTS2021_01685, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01685.nii.gz
+-------------------------------------------------------------------
+Subject 132/219,      BraTS2021_01707, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01707.nii.gz
+-------------------------------------------------------------------
+Subject 133/219,      BraTS2021_01691, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01691.nii.gz
+-------------------------------------------------------------------
+Subject 134/219,      BraTS2021_00833, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00833.nii.gz
+-------------------------------------------------------------------
+Subject 135/219,      BraTS2021_01689, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01689.nii.gz
+-------------------------------------------------------------------
+Subject 136/219,      BraTS2021_00422, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00422.nii.gz
+-------------------------------------------------------------------
+Subject 137/219,      BraTS2021_01775, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01775.nii.gz
+-------------------------------------------------------------------
+Subject 138/219,      BraTS2021_01713, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01713.nii.gz
+-------------------------------------------------------------------
+Subject 139/219,      BraTS2021_01746, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01746.nii.gz
+-------------------------------------------------------------------
+Subject 140/219,      BraTS2021_01674, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01674.nii.gz
+-------------------------------------------------------------------
+Subject 141/219,      BraTS2021_01766, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01766.nii.gz
+-------------------------------------------------------------------
+Subject 142/219,      BraTS2021_00458, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00458.nii.gz
+-------------------------------------------------------------------
+Subject 143/219,      BraTS2021_00145, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00145.nii.gz
+-------------------------------------------------------------------
+Subject 144/219,      BraTS2021_01719, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01719.nii.gz
+-------------------------------------------------------------------
+Subject 145/219,      BraTS2021_00256, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00256.nii.gz
+-------------------------------------------------------------------
+Subject 146/219,      BraTS2021_00447, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00447.nii.gz
+-------------------------------------------------------------------
+Subject 147/219,      BraTS2021_01710, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01710.nii.gz
+-------------------------------------------------------------------
+Subject 148/219,      BraTS2021_00190, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00190.nii.gz
+-------------------------------------------------------------------
+Subject 149/219,      BraTS2021_01733, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01733.nii.gz
+-------------------------------------------------------------------
+Subject 150/219,      BraTS2021_00047, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00047.nii.gz
+-------------------------------------------------------------------
+Subject 151/219,      BraTS2021_00129, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00129.nii.gz
+-------------------------------------------------------------------
+Subject 152/219,      BraTS2021_01708, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01708.nii.gz
+-------------------------------------------------------------------
+Subject 153/219,      BraTS2021_01706, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01706.nii.gz
+-------------------------------------------------------------------
+Subject 154/219,      BraTS2021_01672, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01672.nii.gz
+-------------------------------------------------------------------
+Subject 155/219,      BraTS2021_00027, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00027.nii.gz
+-------------------------------------------------------------------
+Subject 156/219,      BraTS2021_01764, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01764.nii.gz
+-------------------------------------------------------------------
+Subject 157/219,      BraTS2021_00671, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00671.nii.gz
+-------------------------------------------------------------------
+Subject 158/219,      BraTS2021_00208, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00208.nii.gz
+-------------------------------------------------------------------
+Subject 159/219,      BraTS2021_00381, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00381.nii.gz
+-------------------------------------------------------------------
+Subject 160/219,      BraTS2021_01762, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01762.nii.gz
+-------------------------------------------------------------------
+Subject 161/219,      BraTS2021_00662, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00662.nii.gz
+-------------------------------------------------------------------
+Subject 162/219,      BraTS2021_00681, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00681.nii.gz
+-------------------------------------------------------------------
+Subject 163/219,      BraTS2021_00585, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00585.nii.gz
+-------------------------------------------------------------------
+Subject 164/219,      BraTS2021_01742, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01742.nii.gz
+-------------------------------------------------------------------
+Subject 165/219,      BraTS2021_01695, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01695.nii.gz
+-------------------------------------------------------------------
+Subject 166/219,      BraTS2021_01796, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01796.nii.gz
+-------------------------------------------------------------------
+Subject 167/219,      BraTS2021_01765, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01765.nii.gz
+-------------------------------------------------------------------
+Subject 168/219,      BraTS2021_00699, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00699.nii.gz
+-------------------------------------------------------------------
+Subject 169/219,      BraTS2021_01704, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01704.nii.gz
+-------------------------------------------------------------------
+Subject 170/219,      BraTS2021_01776, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01776.nii.gz
+-------------------------------------------------------------------
+Subject 171/219,      BraTS2021_01732, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01732.nii.gz
+-------------------------------------------------------------------
+Subject 172/219,      BraTS2021_01740, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01740.nii.gz
+-------------------------------------------------------------------
+Subject 173/219,      BraTS2021_00153, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00153.nii.gz
+-------------------------------------------------------------------
+Subject 174/219,      BraTS2021_00141, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00141.nii.gz
+-------------------------------------------------------------------
+Subject 175/219,      BraTS2021_01692, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01692.nii.gz
+-------------------------------------------------------------------
+Subject 176/219,      BraTS2021_01758, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01758.nii.gz
+-------------------------------------------------------------------
+Subject 177/219,      BraTS2021_00119, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00119.nii.gz
+-------------------------------------------------------------------
+Subject 178/219,      BraTS2021_01736, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01736.nii.gz
+-------------------------------------------------------------------
+Subject 179/219,      BraTS2021_00229, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00229.nii.gz
+-------------------------------------------------------------------
+Subject 180/219,      BraTS2021_01682, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01682.nii.gz
+-------------------------------------------------------------------
+Subject 181/219,      BraTS2021_01687, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01687.nii.gz
+-------------------------------------------------------------------
+Subject 182/219,      BraTS2021_01768, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01768.nii.gz
+-------------------------------------------------------------------
+Subject 183/219,      BraTS2021_01701, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01701.nii.gz
+-------------------------------------------------------------------
+Subject 184/219,      BraTS2021_01781, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01781.nii.gz
+-------------------------------------------------------------------
+Subject 185/219,      BraTS2021_01688, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01688.nii.gz
+-------------------------------------------------------------------
+Subject 186/219,      BraTS2021_00821, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00821.nii.gz
+-------------------------------------------------------------------
+Subject 187/219,      BraTS2021_01760, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01760.nii.gz
+-------------------------------------------------------------------
+Subject 188/219,      BraTS2021_01761, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01761.nii.gz
+-------------------------------------------------------------------
+Subject 189/219,      BraTS2021_00181, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00181.nii.gz
+-------------------------------------------------------------------
+Subject 190/219,      BraTS2021_01771, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01771.nii.gz
+-------------------------------------------------------------------
+Subject 191/219,      BraTS2021_01696, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01696.nii.gz
+-------------------------------------------------------------------
+Subject 192/219,      BraTS2021_01678, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01678.nii.gz
+-------------------------------------------------------------------
+Subject 193/219,      BraTS2021_01750, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01750.nii.gz
+-------------------------------------------------------------------
+Subject 194/219,      BraTS2021_00125, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00125.nii.gz
+-------------------------------------------------------------------
+Subject 195/219,      BraTS2021_00489, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00489.nii.gz
+-------------------------------------------------------------------
+Subject 196/219,      BraTS2021_00503, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00503.nii.gz
+-------------------------------------------------------------------
+Subject 197/219,      BraTS2021_01779, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01779.nii.gz
+-------------------------------------------------------------------
+Subject 198/219,      BraTS2021_01774, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01774.nii.gz
+-------------------------------------------------------------------
+Subject 199/219,      BraTS2021_01705, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01705.nii.gz
+-------------------------------------------------------------------
+Subject 200/219,      BraTS2021_01693, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01693.nii.gz
+-------------------------------------------------------------------
+Subject 201/219,      BraTS2021_00822, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00822.nii.gz
+-------------------------------------------------------------------
+Subject 202/219,      BraTS2021_01730, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01730.nii.gz
+-------------------------------------------------------------------
+Subject 203/219,      BraTS2021_01747, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01747.nii.gz
+-------------------------------------------------------------------
+Subject 204/219,      BraTS2021_01763, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01763.nii.gz
+-------------------------------------------------------------------
+Subject 205/219,      BraTS2021_01724, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01724.nii.gz
+-------------------------------------------------------------------
+Subject 206/219,      BraTS2021_01794, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01794.nii.gz
+-------------------------------------------------------------------
+Subject 207/219,      BraTS2021_00521, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00521.nii.gz
+-------------------------------------------------------------------
+Subject 208/219,      BraTS2021_01777, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01777.nii.gz
+-------------------------------------------------------------------
+Subject 209/219,      BraTS2021_00333, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00333.nii.gz
+-------------------------------------------------------------------
+Subject 210/219,      BraTS2021_01673, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01673.nii.gz
+-------------------------------------------------------------------
+Subject 211/219,      BraTS2021_01751, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01751.nii.gz
+-------------------------------------------------------------------
+Subject 212/219,      BraTS2021_00595, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00595.nii.gz
+-------------------------------------------------------------------
+Subject 213/219,      BraTS2021_01754, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01754.nii.gz
+-------------------------------------------------------------------
+Subject 214/219,      BraTS2021_01711, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01711.nii.gz
+-------------------------------------------------------------------
+Subject 215/219,      BraTS2021_00384, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00384.nii.gz
+-------------------------------------------------------------------
+Subject 216/219,      BraTS2021_01784, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01784.nii.gz
+-------------------------------------------------------------------
+Subject 217/219,      BraTS2021_01725, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01725.nii.gz
+-------------------------------------------------------------------
+Subject 218/219,      BraTS2021_01782, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/01782.nii.gz
+-------------------------------------------------------------------
+Subject 219/219,      BraTS2021_00603, 
+Successfully save /media/dmia/code1/hh/TransBTS-main/output/submission/TransBTS2022-09-19/00603.nii.gz
+Traceback (most recent call last):
+  File "test.py", line 138, in <module>
+    main()
+  File "test.py", line 124, in main
+    postprocess=True
+  File "/media/dmia/code1/hh/TransBTS-main/predict.py", line 247, in validate_softmax
+    print('runtimes:', sum(runtimes)/len(runtimes))
+ZeroDivisionError: division by zero
